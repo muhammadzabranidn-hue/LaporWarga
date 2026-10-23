@@ -1,0 +1,317 @@
+[
+  {
+    "id": "LW-2026-001",
+    "judul": "Jalan Berlubang Parah di Depan Sekolah",
+    "kategori": "Jalan & Jembatan",
+    "deskripsi": "Terdapat lubang cukup dalam dengan diameter sekitar 50cm yang sangat membahayakan pengendara sepeda motor, terutama saat malam hari karena minim penerangan.",
+    "lokasi": {
+      "alamat": "Jl. Pemuda No. 45, Rawamangun, Jakarta Timur",
+      "lat": -6.1932,
+      "lng": 106.8831
+    },
+    "foto": {
+      "sebelum": "assets/images/laporan-1-before.jpg",
+      "sesudah": "assets/images/laporan-1-after.jpg"
+    },
+    "status": "Selesai",
+    "tanggal_lapor": "2026-10-10",
+    "tanggal_update": "2026-10-15",
+    "pelapor": "Zabran A.",
+    "timeline": [
+      {
+        "status": "Menunggu",
+        "tanggal": "2026-10-10",
+        "catatan": "Laporan diterima oleh sistem dan menunggu verifikasi admin."
+      },
+      {
+        "status": "Diproses",
+        "tanggal": "2026-10-12",
+        "catatan": "Tim Dinas PU telah ditugaskan menuju lokasi penambalan."
+      },
+      {
+        "status": "Selesai",
+        "tanggal": "2026-10-15",
+        "catatan": "Penambalan jalan berlubang selesai dilaksanakan."
+      }
+    ]
+  },
+  {
+    "id": "LW-2026-002",
+    "judul": "Lampu Jalan Utama Mati Total",
+    "kategori": "Penerangan Jalan",
+    "deskripsi": "Tiga tiang penerangan jalan umum (PJU) mati sejak dua hari lalu. Area jalanan menjadi sangat gelap dan rawan tindak kejahatan.",
+    "lokasi": {
+      "alamat": "Jl. Asia Afrika No. 12, Senayan, Jakarta Pusat",
+      "lat": -6.2225,
+      "lng": 106.8021
+    },
+    "foto": {
+      "sebelum": "assets/images/laporan-2-before.jpg",
+      "sesudah": null
+    },
+    "status": "Diproses",
+    "tanggal_lapor": "2026-10-18",
+    "tanggal_update": "2026-10-19",
+    "pelapor": "Budi Santoso",
+    "timeline": [
+      {
+        "status": "Menunggu",
+        "tanggal": "2026-10-18",
+        "catatan": "Laporan diverifikasi oleh admin."
+      },
+      {
+        "status": "Diproses",
+        "tanggal": "2026-10-19",
+        "catatan": "Petugas teknisi sedang mengecek jaringan listrik di lokasi."
+      }
+    ]
+  },
+  {
+    "id": "LW-2026-003",
+    "judul": "Penumpukan Sampah Liar Menutup Trotoar",
+    "kategori": "Kebersihan & Sampah",
+    "deskripsi": "Tumpukan sampah rumah tangga liar menumpuk di atas trotoar sehingga pejalan kaki terpaksa berjalan di bahu jalan raya.",
+    "lokasi": {
+      "alamat": "Jl. Margonda Raya No. 88, Beji",
+      "lat": -6.3731,
+      "lng": 106.8342
+    },
+    "foto": {
+      "sebelum": "assets/images/laporan-3-before.jpg",
+      "sesudah": null
+    },
+    "status": "Menunggu",
+    "tanggal_lapor": "2026-10-20",
+    "tanggal_update": "2026-10-20",
+    "pelapor": "Siti Rahma",
+    "timeline": [
+      {
+        "status": "Menunggu",
+        "tanggal": "2026-10-20",
+        "catatan": "Laporan berhasil dikirim oleh warga."
+      }
+    ]
+  },
+  {
+    "id": "LW-2026-004",
+    "judul": "Drainase Tersumbat Menyebabkan Genangan",
+    "kategori": "Drainase & Banjir",
+    "deskripsi": "Saluran air tersumbat sampah dan sedimen lumpur, menyebabkan air meluap ke jalan saat hujan deras mengguyur.",
+    "lokasi": {
+      "alamat": "Jl. Tebet Utara Dalam No. 5, Jakarta Selatan",
+      "lat": -6.2263,
+      "lng": 106.8584
+    },
+    "foto": {
+      "sebelum": "assets/images/laporan-4-before.jpg",
+      "sesudah": "assets/images/laporan-4-after.jpg"
+    },
+    "status": "Selesai",
+    "tanggal_lapor": "2026-10-05",
+    "tanggal_update": "2026-10-08",
+    "pelapor": "Deni Kurnia",
+    "timeline": [
+      {
+        "status": "Menunggu",
+        "tanggal": "2026-10-05",
+        "catatan": "Laporan diterima."
+      },
+      {
+        "status": "Diproses",
+        "tanggal": "2026-10-06",
+        "catatan": "Pembersihan saluran sedang dilakukan tim kebersihan."
+      },
+      {
+        "status": "Selesai",
+        "tanggal": "2026-10-08",
+        "catatan": "Saluran air sudah lancar kembali."
+      }
+    ]
+  },
+  {
+    "id": "LW-2026-005",
+    "judul": "Lampu Lalu Lintas Rusak / Error",
+    "kategori": "Fasilitas Umum",
+    "deskripsi": "Traffic light di persimpangan jalan mati penuh (blank), menyebabkan kemacetan parah dari empat arah.",
+    "lokasi": {
+      "alamat": "Simpang Mampang Prapatan, Jakarta Selatan",
+      "lat": -6.2431,
+      "lng": 106.8229
+    },
+    "foto": {
+      "sebelum": "assets/images/laporan-5-before.jpg",
+      "sesudah": null
+    },
+    "status": "Diproses",
+    "tanggal_lapor": "2026-10-21",
+    "tanggal_update": "2026-10-21",
+    "pelapor": "Rian Ardiansyah",
+    "timeline": [
+      {
+        "status": "Menunggu",
+        "tanggal": "2026-10-21",
+        "catatan": "Laporan darurat diterima."
+      },
+      {
+        "status": "Diproses",
+        "tanggal": "2026-10-21",
+        "catatan": "Petugas Dishub sudah dikerahkan ke lokasi untuk pengaturan manual dan perbaikan modul."
+      }
+    ]
+  },
+  {
+    "id": "LW-2026-006",
+    "judul": "Pohon Pelindung Lapuk dan Rawan Tumbang",
+    "kategori": "Lingkungan & Taman",
+    "deskripsi": "Cabang pohon cukup besar di pinggir jalan sudah tampak miring dan lapuk, mengancam keselamatan kabel listrik dan pengguna jalan.",
+    "lokasi": {
+      "alamat": "Jl. Cikini Raya No. 78, Jakarta Pusat",
+      "lat": -6.1911,
+      "lng": 106.8378
+    },
+    "foto": {
+      "sebelum": "assets/images/laporan-6-before.jpg",
+      "sesudah": null
+    },
+    "status": "Menunggu",
+    "tanggal_lapor": "2026-10-22",
+    "tanggal_update": "2026-10-22",
+    "pelapor": "Dewi Pertiwi",
+    "timeline": [
+      {
+        "status": "Menunggu",
+        "tanggal": "2026-10-22",
+        "catatan": "Laporan masuk dalam antrean verifikasi Dinas Pertamanan."
+      }
+    ]
+  },
+  {
+    "id": "LW-2026-007",
+    "judul": "Ubin Guiding Block Trotoar Rusak/Hilang",
+    "kategori": "Fasilitas Umum",
+    "deskripsi": "Fasilitas penuntun jalan untuk disabilitas netra membahayakan karena banyak ubin terlepas dan berlubang.",
+    "lokasi": {
+      "alamat": "Jl. Kramat Raya No. 101, Senen, Jakarta Pusat",
+      "lat": -6.1852,
+      "lng": 106.8431
+    },
+    "foto": {
+      "sebelum": "assets/images/laporan-7-before.jpg",
+      "sesudah": "assets/images/laporan-7-after.jpg"
+    },
+    "status": "Selesai",
+    "tanggal_lapor": "2026-09-28",
+    "tanggal_update": "2026-10-04",
+    "pelapor": "Fajar Pratama",
+    "timeline": [
+      {
+        "status": "Menunggu",
+        "tanggal": "2026-09-28",
+        "catatan": "Laporan terverifikasi."
+      },
+      {
+        "status": "Diproses",
+        "tanggal": "2026-10-01",
+        "catatan": "Pengantian ubin sedang dikerjakan."
+      },
+      {
+        "status": "Selesai",
+        "tanggal": "2026-10-04",
+        "catatan": "Pemasangan guiding block baru telah selesai."
+      }
+    ]
+  },
+  {
+    "id": "LW-2026-008",
+    "judul": "Coretan Vandalismo di Fasilitas Halte",
+    "kategori": "Fasilitas Umum",
+    "deskripsi": "Dinding dan kursi halte bus kota dipenuhi aksi vandalisme cat semprot sehingga tampak kumuh.",
+    "lokasi": {
+      "alamat": "Halte Bus Otista, Jatinegara, Jakarta Timur",
+      "lat": -6.2312,
+      "lng": 106.8645
+    },
+    "foto": {
+      "sebelum": "assets/images/laporan-8-before.jpg",
+      "sesudah": null
+    },
+    "status": "Menunggu",
+    "tanggal_lapor": "2026-10-23",
+    "tanggal_update": "2026-10-23",
+    "pelapor": "Andi Prasetyo",
+    "timeline": [
+      {
+        "status": "Menunggu",
+        "tanggal": "2026-10-23",
+        "catatan": "Laporan baru diterima oleh sistem."
+      }
+    ]
+  },
+  {
+    "id": "LW-2026-009",
+    "judul": "Pagar Pembatas Jembatan Penyeberangan Rusak",
+    "kategori": "Jalan & Jembatan",
+    "deskripsi": "Sebagian besi pagar pembatas JPO keropos dan lepas, berisiko membahayakan pejalan kaki yang melintas.",
+    "lokasi": {
+      "alamat": "JPO Danau Sunter, Jakarta Utara",
+      "lat": -6.1422,
+      "lng": 106.8711
+    },
+    "foto": {
+      "sebelum": "assets/images/laporan-9-before.jpg",
+      "sesudah": null
+    },
+    "status": "Diproses",
+    "tanggal_lapor": "2026-10-17",
+    "tanggal_update": "2026-10-19",
+    "pelapor": "Hendra Wijaya",
+    "timeline": [
+      {
+        "status": "Menunggu",
+        "tanggal": "2026-10-17",
+        "catatan": "Laporan diterima."
+      },
+      {
+        "status": "Diproses",
+        "tanggal": "2026-10-19",
+        "catatan": "Pemasangan barikade pengaman sementara oleh teknisi."
+      }
+    ]
+  },
+  {
+    "id": "LW-2026-010",
+    "judul": "Tutup Manhole Kontrol Saluran Air Hilang",
+    "kategori": "Drainase & Banjir",
+    "deskripsi": "Tutup gorong-gorong berbahan besi hilang diduga dicuri, meninggalkan lubang menganga di tengah trotoar.",
+    "lokasi": {
+      "alamat": "Jl. Gajah Mada No. 18, Taman Sari, Jakarta Barat",
+      "lat": -6.1589,
+      "lng": 106.8167
+    },
+    "foto": {
+      "sebelum": "assets/images/laporan-10-before.jpg",
+      "sesudah": "assets/images/laporan-10-after.jpg"
+    },
+    "status": "Selesai",
+    "tanggal_lapor": "2026-10-01",
+    "tanggal_update": "2026-10-03",
+    "pelapor": "Maya Indah",
+    "timeline": [
+      {
+        "status": "Menunggu",
+        "tanggal": "2026-10-01",
+        "catatan": "Laporan diterima."
+      },
+      {
+        "status": "Diproses",
+        "tanggal": "2026-10-02",
+        "catatan": "Pengukuran dan penyiapan beton penutup baru."
+      },
+      {
+        "status": "Selesai",
+        "tanggal": "2026-10-03",
+        "catatan": "Manhole sudah tertutup rapat kembali."
+      }
+    ]
+  }
+]
